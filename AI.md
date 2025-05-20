@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## 数学基础(Math Basics)
 
-- [x] 线性代数(Linear Algebra)
+- [x] [[线性代数(Linear Algebra)]]
 - [x] 多元复合函数求导
 - [ ] 矩阵求导
 - [ ] 概率论(Probability Theory)
