@@ -6,10 +6,11 @@ kanban-plugin: board
 
 ## 数学基础(Math Basics)
 
-- [x] [[线性代数(Linear Algebra)]]
-- [x] 多元复合函数求导
-- [ ] 矩阵求导
+- [ ] 线性代数(Linear Algebra)
+	- [x] MIT 18.06
+	- [ ] MIT 18.065
 - [ ] 概率论(Probability Theory)
+	- [ ] MITx 6.041 x
 
 
 ## 机器学习(Machine learning)
